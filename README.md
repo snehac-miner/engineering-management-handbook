@@ -8,7 +8,7 @@ Make sure to check [Books-Blogs](https://github.com/snehac-miner/engineering-man
 
 Make sure to check on-demand and live bootcamp course content for [courses](https://github.com/snehac-miner/engineering-management-handbook/blob/main/Courses-Bootcamps.md) 
 
-Make sure to check [meetup groups, conferences, events section] [events](https://github.com/snehac-miner/engineering-management-handbook/blob/main/Groups-Communities-Events.md)
+Make sure to check [meetup groups, conferences, events section for events](https://github.com/snehac-miner/engineering-management-handbook/blob/main/Groups-Communities-Events.md)
 
 
 
