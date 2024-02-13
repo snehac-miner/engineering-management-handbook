@@ -1,3 +1,3 @@
-# Meetup Groups and Communities
+# Meetup Groups, Communities and Events
 
 - 
