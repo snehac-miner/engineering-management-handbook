@@ -1,4 +1,4 @@
-# The Engineering-Management-handbook
+# The Engineering-Manager-handbook
 
 This repo has all the resources you need to become an trusted engineering leader!
 
