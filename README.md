@@ -8,6 +8,9 @@ Make sure to check on-demand and live bootcamp course content for [courses](http
 
 Make sure to check [meetup groups, conferences, events section for events](https://github.com/snehac-miner/engineering-management-handbook/blob/main/Groups-Communities-Events.md)
 
+Make sure to check [InterviewPrep]()
+
+You can fork this repo and send a pull request with your additions. Let's make this best and most useful handbook for current and upcoming engineering managers and leaders outthere. It's not easy but having a focused community makes it easier.
 
 # Great Books
 
